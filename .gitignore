@@ -1,6 +1,14 @@
 # Config file
 config.json
 
+
+# Ignore Gradle project-specific cache directory
+.gradle
+.idea
+
+# Ignore Gradle build output directory
+build
+
 # Compiled class file
 *.class
 
